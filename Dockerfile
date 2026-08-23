@@ -1,2 +1,2 @@
 FROM ghcr.io/mgerwec/cwamd:latest
-ENV PORT=3000
+ENV PORT=8000
