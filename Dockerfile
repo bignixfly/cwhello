@@ -1,2 +1,2 @@
-FROM ghcr.io/mgerwec/pyts3_1:latest
+FROM ghcr.io/mgerwec/pyts3:latest
 ENV PORT=8000
